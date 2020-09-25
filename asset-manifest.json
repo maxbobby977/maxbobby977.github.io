@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/winniebday2/static/css/main.5f361e03.chunk.css",
+    "main.js": "/winniebday2/static/js/main.a4a248b4.chunk.js",
+    "main.js.map": "/winniebday2/static/js/main.a4a248b4.chunk.js.map",
+    "runtime-main.js": "/winniebday2/static/js/runtime-main.2e36027c.js",
+    "runtime-main.js.map": "/winniebday2/static/js/runtime-main.2e36027c.js.map",
+    "static/js/2.959d2a9c.chunk.js": "/winniebday2/static/js/2.959d2a9c.chunk.js",
+    "static/js/2.959d2a9c.chunk.js.map": "/winniebday2/static/js/2.959d2a9c.chunk.js.map",
+    "index.html": "/winniebday2/index.html",
+    "precache-manifest.069912580922776dca269f70be57535e.js": "/winniebday2/precache-manifest.069912580922776dca269f70be57535e.js",
+    "service-worker.js": "/winniebday2/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/winniebday2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.959d2a9c.chunk.js.LICENSE.txt": "/winniebday2/static/js/2.959d2a9c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/winniebday2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e36027c.js",
+    "static/js/2.959d2a9c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a4a248b4.chunk.js"
+  ]
+}
