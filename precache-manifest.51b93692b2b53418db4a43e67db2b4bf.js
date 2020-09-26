@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd246290b33260a5a122d41ef04d6195",
+    "revision": "d0eeffa4e663d801f40988531937e8da",
     "url": "/winniebday2.github.io/index.html"
   },
   {
-    "revision": "be33ede7f1875fea17f2",
+    "revision": "c92987b31db5cb2198ef",
     "url": "/winniebday2.github.io/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "2fb645cade1b181622cd",
+    "revision": "a9dea2036d864bcf6fec",
     "url": "/winniebday2.github.io/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "be33ede7f1875fea17f2",
-    "url": "/winniebday2.github.io/static/js/2.73b80117.chunk.js"
+    "revision": "c92987b31db5cb2198ef",
+    "url": "/winniebday2.github.io/static/js/2.998df95d.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/winniebday2.github.io/static/js/2.73b80117.chunk.js.LICENSE.txt"
+    "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
+    "url": "/winniebday2.github.io/static/js/2.998df95d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2fb645cade1b181622cd",
-    "url": "/winniebday2.github.io/static/js/main.ff737ae1.chunk.js"
+    "revision": "a9dea2036d864bcf6fec",
+    "url": "/winniebday2.github.io/static/js/main.cf0f517a.chunk.js"
   },
   {
     "revision": "0438a3930e83114e5e44",
